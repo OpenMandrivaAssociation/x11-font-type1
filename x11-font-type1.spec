@@ -3,6 +3,7 @@ Version: 1.0.0
 Release: %mkrel 4
 Summary: X11 fonts type1
 Group: Development/X11
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License: GPL
 BuildArch: noarch
 Requires: x11-font-adobe-utopia-type1
