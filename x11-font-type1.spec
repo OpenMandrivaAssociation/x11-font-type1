@@ -1,6 +1,6 @@
 Name: x11-font-type1
 Version: 1.0.0
-Release: %mkrel 4
+Release: %mkrel 5
 Summary: X11 fonts type1
 Group: Development/X11
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
