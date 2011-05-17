@@ -6,6 +6,7 @@ Group: Development/X11
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License: GPL
 BuildArch: noarch
+BuildRequires: fontconfig
 Requires: x11-font-bitstream-type1
 Requires: x11-font-xfree86-type1
 Conflicts: xorg-x11 <= 6.9.0
