@@ -1,6 +1,6 @@
 Name: x11-font-type1
 Version: 1.0.0
-Release: 21
+Release: 22
 Summary: X11 fonts type1
 Group: Development/X11
 License: GPL
